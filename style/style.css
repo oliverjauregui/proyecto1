@@ -27,6 +27,13 @@ body {
 	margin-left: 60px
 	margin-right: 0px;
 	border-radius: 10px;	
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.home:hover { 
+	background-color: #D2763D;
+}
+.subrayado {
+	border-bottom: 10px solid #D2763D !important;
 }
 .menuItem{
 	text-decoration: none;
@@ -43,6 +50,10 @@ body {
 	border: 2px solid;
 	border-spacing: 3px;
 	border-radius: 10px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.about:hover { 
+	background-color: #D2763D;
 }
 .getting {
 	display: inline-block;
@@ -54,6 +65,10 @@ body {
 	margin-right: 20px;
 	border: 2px solid;
 	border-radius: 10px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.getting:hover { 
+	background-color: #D2763D;
 }
 .first {
 	height: 180%;
@@ -252,7 +267,7 @@ body {
 	color: white;
 	display: inline-block; 
 	font-family: 'Roboto Condensed', sans-serif;
-	margin: 0px 45px;
+	margin: 0px 21px;
 }
 .orange3 {
 	height: 20%;
