@@ -225,6 +225,7 @@ body {
 	border-radius: 15px;
 	background-color: #D2763D;
 	display: inline-block;
+	text-align: center;
 }
 .h4 {
 	text-align: left;
@@ -255,6 +256,7 @@ body {
 	border-radius: 15px;
 	background-color: #D2763D;
 	display: inline-block;
+	text-align: center;
 }
 .arrova {
 	display: inline-block;
@@ -277,6 +279,7 @@ body {
 	border-radius: 15px;
 	background-color: #D2763D;
 	display: inline-block;
+	text-align: center;
 }
 .letter3 {
 	color: white;
